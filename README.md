@@ -1,1 +1,1 @@
-# RES-tutorial-fall2020
+# Solar Project 02
